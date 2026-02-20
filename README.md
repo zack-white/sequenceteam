@@ -8,3 +8,5 @@
 4. One time: install package dependencies
    
    pip install -r requirements.txt
+
+   Note: dgl package changed to Mac version, from Linux version on DeepGo's Github.
