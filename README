@@ -1,0 +1,15 @@
+to use:
+- first download all packages using the command:
+  pip install numpy pandas matplotlib faiss-cpu scikit-learn tqdm torch goatools
+
+Make sure to also have the splits folder with all the folds in your
+working directory
+
+to run:
+  python final.py
+
+if you do not have enough storage on your disk, it will crash
+but will create a fold_metrics.csv file before that happens to 
+write final prediction, threshold, and f1 scores
+
+
