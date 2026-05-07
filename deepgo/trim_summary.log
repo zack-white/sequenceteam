@@ -1,0 +1,21 @@
+Processing folder: /r/proj167/lclark10/deepgo2/data/5_fold_val_50/f0_val_50
+Generating summary stats for /r/proj167/lclark10/deepgo2/data/5_fold_val_50/f0_val_50/f0_val_50_trim/f0_val_50_sequences_preds_bp_trim.tsv.gz
+Generating summary stats for /r/proj167/lclark10/deepgo2/data/5_fold_val_50/f0_val_50/f0_val_50_trim/f0_val_50_sequences_preds_cc_trim.tsv.gz
+Generating summary stats for /r/proj167/lclark10/deepgo2/data/5_fold_val_50/f0_val_50/f0_val_50_trim/f0_val_50_sequences_preds_mf_trim.tsv.gz
+Processing folder: /r/proj167/lclark10/deepgo2/data/5_fold_val_50/f1_val_50
+Generating summary stats for /r/proj167/lclark10/deepgo2/data/5_fold_val_50/f1_val_50/f1_val_50_trim/f1_val_50_sequences_preds_bp_trim.tsv.gz
+Generating summary stats for /r/proj167/lclark10/deepgo2/data/5_fold_val_50/f1_val_50/f1_val_50_trim/f1_val_50_sequences_preds_cc_trim.tsv.gz
+Generating summary stats for /r/proj167/lclark10/deepgo2/data/5_fold_val_50/f1_val_50/f1_val_50_trim/f1_val_50_sequences_preds_mf_trim.tsv.gz
+Processing folder: /r/proj167/lclark10/deepgo2/data/5_fold_val_50/f2_val_50
+Generating summary stats for /r/proj167/lclark10/deepgo2/data/5_fold_val_50/f2_val_50/f2_val_50_trim/f2_val_50_sequences_preds_bp_trim.tsv.gz
+Generating summary stats for /r/proj167/lclark10/deepgo2/data/5_fold_val_50/f2_val_50/f2_val_50_trim/f2_val_50_sequences_preds_cc_trim.tsv.gz
+Generating summary stats for /r/proj167/lclark10/deepgo2/data/5_fold_val_50/f2_val_50/f2_val_50_trim/f2_val_50_sequences_preds_mf_trim.tsv.gz
+Processing folder: /r/proj167/lclark10/deepgo2/data/5_fold_val_50/f3_val_50
+Generating summary stats for /r/proj167/lclark10/deepgo2/data/5_fold_val_50/f3_val_50/f3_val_50_trim/f3_val_50_sequences_preds_bp_trim.tsv.gz
+Generating summary stats for /r/proj167/lclark10/deepgo2/data/5_fold_val_50/f3_val_50/f3_val_50_trim/f3_val_50_sequences_preds_cc_trim.tsv.gz
+Generating summary stats for /r/proj167/lclark10/deepgo2/data/5_fold_val_50/f3_val_50/f3_val_50_trim/f3_val_50_sequences_preds_mf_trim.tsv.gz
+Processing folder: /r/proj167/lclark10/deepgo2/data/5_fold_val_50/f4_val_50
+Generating summary stats for /r/proj167/lclark10/deepgo2/data/5_fold_val_50/f4_val_50/f4_val_50_trim/f4_val_50_sequences_preds_bp_trim.tsv.gz
+Generating summary stats for /r/proj167/lclark10/deepgo2/data/5_fold_val_50/f4_val_50/f4_val_50_trim/f4_val_50_sequences_preds_cc_trim.tsv.gz
+Generating summary stats for /r/proj167/lclark10/deepgo2/data/5_fold_val_50/f4_val_50/f4_val_50_trim/f4_val_50_sequences_preds_mf_trim.tsv.gz
+All folds processed!

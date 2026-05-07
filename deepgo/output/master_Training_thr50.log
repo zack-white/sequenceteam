@@ -1,0 +1,24 @@
+Running f0 on data/5_fold_Trained_50/f0_Train_50/f0_train_sequences.fasta
+Loading existing embeddings: data/5_fold_Trained_50/f0_Train_50/f0_train_sequences_esm.pkl
+Predicting mf classes
+
+
+
+
+
+
+Predicting cc classes
+
+
+
+
+
+
+Predicting bp classes
+
+
+
+
+
+
+Invalid null command.
